@@ -16,3 +16,6 @@
 #jqery.js
 #Post-Template.css
 #Blog-Template.css
+#Home.html
+#Home.css
+#nicepage.css

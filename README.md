@@ -20,3 +20,4 @@
 #Home.css
 #nicepage.css
 #README.md
+#nicepage.js

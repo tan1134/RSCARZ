@@ -15,3 +15,4 @@
 #Contact-us.css
 #jqery.js
 #Post-Template.css
+#Blog-Template.css

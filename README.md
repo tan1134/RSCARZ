@@ -10,8 +10,8 @@
 #Selling.css
 #scripts
 #images
-#Blogs
+#blog
 #Buying.css
-#Contact us.css
+#Contact-us.css
 #jqery.js
-#Post-template.css
+#Post-Template.css

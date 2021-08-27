@@ -1,10 +1,10 @@
 # RSCARZ
 #index.html
-#About us.html
+#About-us.html
 #Services.html
 #Buying.html
 #Selling.html
-#Contact us.html
+#Contact-us.html
 #Buying.css
 #Services.css
 #Selling.css

@@ -8,6 +8,10 @@
 #Buying.css
 #Services.css
 #Selling.css
-#Scripts
+#scripts
 #images
 #Blogs
+#Buying.css
+#Contact us.css
+#jqery.js
+#Post-template.css
